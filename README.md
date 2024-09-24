@@ -27,22 +27,6 @@ Skills:
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on Generative AI Applications  
-  
-
-- ❓ Ask me about anything related to DataScience  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
