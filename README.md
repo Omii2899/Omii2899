@@ -2,13 +2,13 @@
   
 
 <div align="center">
-<a href="https://www.linkedin.com/in/aadarsh-siddha/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.datascienceportfol.io/aadarsh_siddha" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio%20Link-FFD700.svg?&style=for-the-badge" alt="Portfolio Link" style="margin-bottom: 5px;" />
-</a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aadarsh-siddha/)](https://www.linkedin.com/in/aadarsh-siddha/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700.svg?&style=for-the-badge)](https://www.datascienceportfol.io/aadarsh_siddha)
+
 </div>
+
 
 
 
