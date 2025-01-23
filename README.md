@@ -5,7 +5,6 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aadarsh-siddha/)](https://www.linkedin.com/in/aadarsh-siddha/)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700.svg?&style=for-the-badge)](https://www.datascienceportfol.io/aadarsh_siddha)
 
 </div>
 
