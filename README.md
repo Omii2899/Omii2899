@@ -16,12 +16,12 @@
 With over 2 years of experience as a data scientist, I specialize in applying machine learning and data analytics to drive actionable insights and optimize business performance. My technical expertise spans Python, SQL, and MLOps, with a strong focus on building efficient data pipelines, model optimization, and deploying scalable systems using Docker, Kubernetes, and Airflow.
 
 Skills:
-- Programming Languages: Python, SQL
-- Database/ ETL: MySQL, PostgreSQL, MongoDB, Talend, AWS Glue, Weaviate, Chroma, Airflow
-- Developer Tools: Tableau, Power BI, Docker, Kubernetes, Git, Grafana, Terraform
-- Frameworks: ML Flow, Flask, Django, Dask, DVC, PyTorch, Streamlit, FastAPI, Ray, PyTest, Langchain, Ragas, ELK Stack
-- Libraries: Pandas, NumPy, Sci-kit learn, Matplotlib, Plotly, Snorkel, Seaborn, XGBoost, NLTK, Spacy, OpenCV, Beautiful Soup
-- Cloud Services: AWS, GCP  
+- Programming Languages and Analytical Tools: Python, SQL, R, Tableau, PowerBI, Advanced Excel
+- Cloud Tech and BigData: AWS, Google Cloud Platform (GCP), Pyspark, Databricks, Hadoop
+- Database and ETL Tools: MySQL, PostgreSQL, MongoDB, Databricks, MS SQL Server, Map-Reduce, Snowflake
+- Developer Tools and Frameworks: Docker, Kubernetes, Airflow Git, Terraform, MLFlow, PyTorch, Streamlit, FastAPI
+- Libraries: Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, NLTK, OpenCV, Keras
+
   
 
 <br/>  
